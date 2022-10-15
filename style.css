@@ -5,7 +5,7 @@
 }
 
 .container {
-    /* height: 200vh; */
+    /* height: 200%; */
     width: 100%;
     margin: 20px;
     font-family: sans-serif;
@@ -48,7 +48,7 @@ a:active {
 }
 
 .leftcontainer {
-    /* height: 100vh; */
+    height: 70rem;
     width: 48%;
     border: 2px solid #cef2e0;
     margin-right: 10px;
@@ -101,7 +101,7 @@ a:active {
 }
 
 .rightcontainer {
-    /* height: 100vh; */
+    height: 70rem ;
     width: 48%;
     border: 2px solid #cedff2;
     margin-left: 10px;
