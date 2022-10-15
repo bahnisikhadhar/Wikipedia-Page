@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 200vh;
+    width: 100%;
+    margin: 20px;
+    font-family: sans-serif;
+
+}
+
+header {
+    height: 150px;
+    border: 2px solid #ddd;
+    width: 97%;
+    text-align: center;
+    padding: 20px;
+    line-height: 2.3rem;
+    word-spacing: 2px;
+}
+
+.firstline {
+    font-size: 2rem;
+}
+
+.secondline {
+    font-size: 1.3rem;
+}
+
+a {
+    text-decoration: none;
+    color: slateblue;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: orange;
+}
+
+.maincontainer {
+    margin-top: 10px;
+}
+
+.leftcontainer {
+    height: 100vh;
+    width: 48%;
+    border: 2px solid #cef2e0;
+    margin-right: 10px;
+    float: left;
+    background-color: #f5fffa;
+
+}
+
+.lefth {
+    background-color: #cef2e0;
+    border: 2px solid #a3bfb1;
+    padding: 10px;
+    margin: 10px;
+}
+
+.box1 {
+    float: left;
+    margin-left: 10px;
+}
+
+.left_floatpic {
+    height: 200px;
+    width: 250px;
+    margin-right: 10px;
+    /* float: left; */
+}
+
+.box2 {
+    float: right;
+}
+
+.right_floatpic {
+    height: 200px;
+    width: 250px;
+    margin-right: 10px;
+
+}
+
+.leftp {
+    margin: 10px;
+    line-height: 2rem;
+    font-size: 1.3rem;
+}
+
+.rightp {
+    margin: 10px;
+    margin-left: 40px;
+    line-height: 2rem;
+    font-size: 1.3rem;
+}
+
+.rightcontainer {
+    height: 100vh;
+    width: 48%;
+    border: 2px solid #cedff2;
+    margin-left: 10px;
+    float: left;
+    background-color: #f5faff;
+}
+
+.righth {
+    background-color: #cedff2;
+    border: 2px solid #a3b0bf;
+    padding: 10px;
+    margin: 10px;
+}
